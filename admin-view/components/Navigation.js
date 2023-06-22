@@ -16,6 +16,7 @@ export default function Navigation() {
       border="1px solid black"
       align="center"
       flexDir="space-between"
+      mb="64px"
     >
       <Flex flex={2} gap="32px" align="center">
         <Box fontSize="50px">
